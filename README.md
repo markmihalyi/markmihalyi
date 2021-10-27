@@ -22,7 +22,7 @@ class About extends Me {
 ```
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
