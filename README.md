@@ -1,4 +1,4 @@
-# Hey there.
+# 👋 Hey there.
 
 [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
