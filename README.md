@@ -8,14 +8,14 @@ class About extends Me {
     name: string;
     age: number;
     role: string;
-    language_spoken: Array<string>;
+    languages_spoken: Array<string>;
 
     constructor() {
         super();
         this.name = 'Márk Mihályi';
         this.age = 18;
         this.role = 'Student';
-        this.language_spoken = ['hu_HU', 'en_US'];
+        this.languages_spoken = ['hu_HU', 'en_US'];
     }
 }
 
