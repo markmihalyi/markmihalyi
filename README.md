@@ -5,17 +5,12 @@
 ```TypeScript
 
 class About extends Me {
-    name: string;
-    age: number;
-    role: string;
-    languages_spoken: Array<string>;
-
-    constructor() {
-        this.name = 'Márk Mihályi';
-        this.age = 18;
-        this.role = 'Student';
-        this.languages_spoken = ['hu_HU', 'en_US'];
-    }
+    location = 'Hungary';
+    languages_spoken = ['hu_HU', 'en_US'];
+    programming_languages = ['TypeScript', 'JavaScript'];
+    frameworks = ['React', 'Next.js', 'Node.js', 'Express'];
+    databases = ['MySQL', 'MongoDB'];
+    soft_skills = ['Critical Thinker', 'Problem Solver', 'Teamworker'];
 }
 
 ```
@@ -29,8 +24,8 @@ class About extends Me {
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F0DB4F)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=777BB4)
 
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 
