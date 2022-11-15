@@ -10,7 +10,6 @@ class About extends Me {
     programming_languages = ['TypeScript', 'JavaScript'];
     frameworks = ['React', 'Next.js', 'Node.js', 'Express'];
     databases = ['MySQL', 'MongoDB'];
-    soft_skills = ['Critical Thinker', 'Problem Solver', 'Teamworker'];
 }
 
 ```
