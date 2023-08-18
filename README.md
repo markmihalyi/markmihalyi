@@ -7,8 +7,8 @@
 class About extends Me {
     location = 'Hungary';
     languages_spoken = ['hu_HU', 'en_US'];
-    programming_languages = ['TypeScript', 'JavaScript'];
-    technologies = ['React', 'Next.js', 'Express', 'Node.js'];
+    programming_languages = ['TypeScript', 'JavaScript', 'C#'];
+    technologies = ['React', 'Next.js', 'Express', 'Node.js', 'WPF'];
     databases = ['MySQL', 'MongoDB'];
 }
 
